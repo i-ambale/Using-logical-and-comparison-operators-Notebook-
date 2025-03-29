@@ -82,18 +82,23 @@ WHERE
     Region = 'Sub-Saharan Africa'
 ORDER BY
     Pct_managed_drinking_water_services DESC;
-📈 Insights & Observations
+
+```
+## 📈 Insights & Observations
 Some countries with higher GDP also show better access to basic services, but this is not consistent across all Sub-Saharan nations.
 
 The rate of improvement in services does not always match GDP growth, indicating the need to explore governance, investment priorities, and infrastructure policies.
 
+---
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 ExploreAI Academy for SQL training resources and dataset guidance
 
 UN Data Repository for open access to global development datasets
 
-🧑‍💻 Author
+---
+
+## 🧑‍💻 Author
 Ibrahim Ambale
 Data Analyst | Monitoring & Evaluation Specialist
 Passionate about using data for development impact 🌱
